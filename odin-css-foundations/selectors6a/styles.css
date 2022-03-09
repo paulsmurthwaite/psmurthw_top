@@ -1,0 +1,9 @@
+/* chain a class and an ID */
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}

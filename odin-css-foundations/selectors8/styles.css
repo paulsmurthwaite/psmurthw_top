@@ -1,0 +1,19 @@
+/* hex example: */
+
+/* p {
+    color: #1100ff;
+  } */
+
+
+/* rgb example: */
+
+/* p {
+    color: rgb(100, 0, 127);
+  } */
+
+
+/* hsl example: */
+
+p {
+    color: hsl(15, 82%, 56%);
+  }

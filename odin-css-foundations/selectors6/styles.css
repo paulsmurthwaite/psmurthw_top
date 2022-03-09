@@ -1,0 +1,5 @@
+/* chain the two class selectors together */
+
+.subsection.header {
+    color: red;
+  }

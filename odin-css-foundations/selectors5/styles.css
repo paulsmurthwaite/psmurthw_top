@@ -1,0 +1,27 @@
+/* Shared declarations between two/more classes
+.read {
+    color: white;
+    background-color: black;
+  } 
+  
+.unread {
+    color: white;
+    background-color: black;
+  } */
+
+
+/* Alternatively */
+
+.read, 
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations, this should not be empty in production */
+}
+
+.unread {
+  /* several unique declarations, this should not be empty in production */
+}
